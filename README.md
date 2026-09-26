@@ -1,9 +1,7 @@
 # CKA Exam Tracker
 
-A Streamlit reproduction of the "Ultimate CKA" Excel progress tracker —
-same 5 categories, same 40 topics, same weights, same status workflow
-(Yet to Start / WIP / Done), rebuilt as an interactive local app with
-persistent SQLite storage.
+A Streamlit reproduction of the "Ultimate CKA" progress tracker —
+5 categories, same 40 topics, same weights, same status workflow
 
 ## Run it
 
